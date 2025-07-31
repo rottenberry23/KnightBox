@@ -9,3 +9,20 @@ confirm the working, cuz you have frameDelays in seconds in 'knight.js' animatio
     1. Left 
     2. Right
     3. Jump
+
+
+---
+
+### gameplan:
+
+"home" screen where (layer wise):  background(gifs of the knight runnning), transparent div,  {play button, settings (music off/on)}
+controls:
+1. arrow keys : jump | crouch | left | right
+2. attack 1 : a
+3. attack 2 : s
+4. attack combo : d (attack 1 + attack 2)
+5. dash : spacebar
+6. slide : spacebar (when crouched)
+7. crouched attack : a (when crouched)
+
+
