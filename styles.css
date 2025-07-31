@@ -1,19 +1,24 @@
-    /* @font-face {
-        font-family: 'disco';
-        src: url('../font/DigitalDisco.ttf') format('truetype');
-    } */
-
+/* @font-face {
+    font-family: 'disco';
+    src: url('./font/DigitalDisco.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'disco_thin';
+    src: url('./font/DigitalDisco-Thin.ttf') format('truetype');
+} */
+/*-------------------------------------------------------------------------------------------- Fonts Section
+*/ 
 
 
 
 
 #canvas1{
-    border: 5px solid black;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+    border: 5px solid black;
     width:600px;
     height: 600px;
-
+    background-color: antiquewhite;
 }
